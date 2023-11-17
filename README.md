@@ -19,13 +19,5 @@ The Google Clone HTML/CSS App is a simple web application that replicates the Go
 ## Video Link
 [Link to the Google Clone App Video](https://youtu.be/rSjT1KI3YUg)
 
-## Contributing
-We welcome contributions! If you'd like to contribute to the Google Clone HTML/CSS App, please follow these guidelines:
-- Fork the repository.
-- Create a new branch: `git checkout -b feature/your-feature-name`
-- Commit your changes: `git commit -m 'Add your feature'`
-- Push to the branch: `git push origin feature/your-feature-name`
-- Submit a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
