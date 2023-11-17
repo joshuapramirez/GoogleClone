@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <nav>
+      <ul class="navbar-topright">
+        <li class="navbar-item"><a href="images.html">Images</a></li>
+        <li class="navbar-item"><a href="advanced.html">Advanced Search</a></li>
+      </ul>
+    </nav>
+    <div class="center-div">
+      <img src="google.png" alt="Google" width="272" height="92">
+    </div>
+    <form action="https://www.google.com/search" method="get" role="search">
+      <label for="search-input"></label>
+      <input type="text" name="q" id="search-input" class="rounded-input" aria-label="Search" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <div class="center-div">
+        <button type="submit" name="btnK" class="btn btn-google">Google Search</button>
+        <button type="submit" name="btnI" class="btn-google">I'm Feeling Lucky</button>
+      </div>
+    </form>
+  </body>
+</html>
+
